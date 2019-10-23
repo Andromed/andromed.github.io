@@ -19,9 +19,7 @@
 
 body {
   font-family: 'Quicksand', sans-serif;
-  font-size: 18px;
-  color: #515151;
-  line-height: 1.75rem;
+
 }
 
 @media (max-width: 30em) {
